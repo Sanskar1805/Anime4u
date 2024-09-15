@@ -1,0 +1,19 @@
+
+<%- include("partials/header"); -%>
+
+    <h1>Home</h1>
+
+
+
+  <%  names.forEach(function(name){ %>
+
+    <h1><%=name.title%></h1>
+    <p>
+    <%=name.content.substring(0, 100) + " ..."%>
+    </p>
+
+
+    <% }) %>
+
+
+<%- include("partials/footer"); -%>

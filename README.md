@@ -1,2 +1,2 @@
 # Anime4u
-One Stop application for all the anime enthusiasts
+A anime recommendation system where the user can scroll through various latest trending animes , can also search for your favourite anime or genre , and can have a chat with other anime enthusiasts.
